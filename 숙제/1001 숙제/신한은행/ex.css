@@ -1,0 +1,138 @@
+*{margin: 0; padding: 0;}
+ul{list-style: none;}
+a{text-decoration: none;}
+.cf::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+header{
+    width: 100%;
+}
+.test1{
+    width: 1440px;
+    padding: 43px 0 45px 0;
+}
+.test1{
+    width: 100%;
+    margin: 0 auto;
+
+}
+.test1 h2{
+    display: block;
+    padding-bottom: 14px;
+    font-size: 24px;
+    color: #333;
+}
+.test1 h2 span{
+    color: #d58017;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*이모티콘 집어넣으려고 만든거임**********************************************/
+.article1{
+    width: 900px;
+    height: 60px;
+    padding: 30px 10px;
+    border: 1px solid #333;
+    margin: 100px auto;
+}
+.article1 .icon li{
+    float: left;
+    width: 27px;
+    height: 27px;
+    margin-right: 20px;
+    background-color: #6a6a6a;
+    border: 1px solid red;
+}
+
+.article1 .icon li:nth-child(1){
+    background: url(img/img_intro.png) no-repeat -402px -97px;
+    background-color: #6a6a6a;
+}
+.article1 .icon li:nth-child(2){
+    background: url(img/img_intro.png) no-repeat -437px -97px;
+    background-color: #6a6a6a;
+}
+.article1 .icon li:nth-child(3){
+    background: url(img/img_intro.png) no-repeat -474px -97px;
+    background-color: #6a6a6a;
+}
+.article1 .icon li:nth-child(4){
+    background: url(img/img_intro.png) no-repeat -510px -97px;
+    background-color: #6a6a6a;
+}
+
+
+
+.article2{
+    width: 900px;
+    height: 60px;
+    padding: 30px 10px;
+    border: 1px solid #333;
+    margin: 100px auto;
+}
+.article2 .icon2 li{
+    float: left;
+    width: 24px;
+    height: 17px;
+    margin-right: 20px;
+    background-color: #6a6a6a;
+    border: 1px solid red;
+}
+
+.article2 .icon2 li:nth-child(1){
+    background: url(img/img_intro.png) no-repeat -91px -350px;
+    background-color: #6a6a6a;
+}
+.article2 .icon2 li:nth-child(2){
+    background: url(img/img_intro.png) no-repeat -130px -350px;
+    background-color: #6a6a6a;
+}

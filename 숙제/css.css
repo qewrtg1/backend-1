@@ -1,0 +1,123 @@
+*{margin: 0; padding: 0;}
+ul, li{list-style: none;}
+a{text-decoration: none;}
+.cf::after{content: ''; display: block; clear: both;}
+
+#wrap{
+    width: 100%;
+    min-width: 980px;
+    /* overflow: hidden; */
+}
+.franchise{
+    width:100%;
+    padding: 50px 0;
+}
+
+
+.test{
+    background: #f6fbfd;
+}
+
+
+.inner{
+    width:1440px;
+    margin: 0 auto;  
+    padding: 43px 0 45px 0;
+    background: #f6fbfd;
+    /* background-color: #6a6a6a; */
+
+}
+
+.title{
+    width: 100%;
+    /* padding: 43px 0 45px 0; */
+
+
+
+}
+
+.title h2{
+    color: #333;
+    font-size: 24px;
+    /* display: block; */
+}
+.title h2 span{
+    color: #d58017;
+}
+
+
+/*********************이상 무*/
+
+
+.card_list{
+    padding: 50px 0 ;
+}
+
+.card_list ul{
+    width: 100%;
+}
+
+.card_list ul li{
+    float: left;
+    width: 232px;
+    height: 256px;
+    /* border: 1px solid #333; */
+    box-sizing: border-box;
+    margin-left: 17px;
+    text-align: center;
+    padding: 30px 0 25px 0;
+}
+.card_list ul li:nth-child(1){
+    margin-left: 0;
+    background-color: #aadaff;
+}
+.card_list ul li:nth-child(2){
+    background-color: #7ae6e9;
+}
+.card_list ul li:nth-child(3){
+    background-color: #aadaff;
+}
+.card_list ul li:nth-child(4){
+    background-color: #7ae6e9;
+}
+
+
+
+
+
+
+/*************************이상 무*/
+
+.footer {
+
+    background-color: #6a6a6a;
+}
+
+.inners{
+    width:1440px;
+    margin: 0 auto;  
+    background-color: #6a6a6a;
+    box-sizing: border-box;
+}
+
+
+
+.footer .inners {
+    width: 1440px;
+    margin: 0 auto;
+    position: relative;
+    box-sizing: border-box;
+    padding: 50px 50px;
+
+}
+
+.address p{
+    padding-top: 15px;
+}
+.address p span{
+    position: relative;
+    display: inline-block;
+    margin-right: 7px;
+    margin-bottom: 4px;
+}
+
